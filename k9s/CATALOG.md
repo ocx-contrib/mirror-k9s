@@ -41,17 +41,6 @@ export K9S_LOGS_DIR="$HOME/.local/state/k9s"
 k9s info
 ```
 
-## Install with ocx
-
-```sh
-ocx install ocx.sh/k9s/k9s
-```
-
-```sh
-# or pin a specific version
-ocx install ocx.sh/k9s/k9s:0.51.0
-```
-
 ## Links
 
 - [k9s on GitHub](https://github.com/derailed/k9s)
